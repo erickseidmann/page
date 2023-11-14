@@ -1,0 +1,13 @@
+*{  /* quando queremos selecionar todos os elementos  escrevemos  *{} e colocamos os CSS aqui    */
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: #fff;/* isso define que todo elemento que estiver dentro das tags a terão a cor branca*/
+    text-decoration: none;/* com isso removemos os efeitos padrões que vem*/
+}
+
+a:hover{
+    opacity: 0.7;/* aqui adicionei uma opacidade de 0.7 para não deixar nossotexto sem graça*/
+}
