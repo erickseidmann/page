@@ -1,10 +1,11 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="/header/header/ico/logopequena (2).ico" type="image/x-icon">
+    <link rel="shortcut icon" href="ico/logopequena (2).ico" type="image/x-icon">
     <title>Seidmann Institute</title>
 
 </head>
@@ -13,7 +14,7 @@
         <nav>
             <div class="logo">
                 <a href="">
-                    <img src="/images/logo-sem-fundo.png" alt="logo de Erick Seidmann">
+                    <img src="images/logo-sem-fundo.png" alt="logo de Erick Seidmann">
                 </a>
             </div><!-- fecho logo-->
             <div class="mobile-menu"> <!-- menu hambu -->
